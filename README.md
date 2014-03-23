@@ -1,0 +1,4 @@
+gitian.sigs
+===========
+
+Gitian signatures
